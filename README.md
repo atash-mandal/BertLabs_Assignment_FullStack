@@ -54,3 +54,4 @@ _Below is the step by step implementation of how to install the web application.
 ### Screenshots
 
 1. Interface of the Application
+   ![first_page](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/3518a656-e873-40b0-b482-f734c7e00055)
