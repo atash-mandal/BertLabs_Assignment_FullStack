@@ -18,11 +18,14 @@ RyoTen Luxury is a premier platform based in Japan, specializing in the resale o
 ### Built With
 
 The technologies used in developing this application are:<br/>
-Frontend : React.js<br/>
-           Recharts (Chart.js)<br/>
-Backend :  Node.js<br/>
-           Express.js<br/>
-           MySQL
+#### Frontend : 
+React.js<br/>
+Recharts (Chart.js)<br/>
+<br/>
+#### Backend :  
+Node.js<br/>
+Express.js<br/>
+MySQL
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -75,5 +78,6 @@ _Below is the step by step implementation of how to install the web application.
   ![footer](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/d6ac6df9-7b81-4db1-9dd7-bee5d7095955)
 
 
-<p>Click on the below youtube video to check out the demonstartion video of the functionalities incorporated in the application</p>
+## Click on the below youtube video to check out the demonstartion video of the functionalities incorporated in the application
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FA5jvbrO_Ss/0.jpg)](https://www.youtube.com/watch?v=FA5jvbrO_Ss)
