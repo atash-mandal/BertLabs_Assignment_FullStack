@@ -58,3 +58,18 @@ _Below is the step by step implementation of how to install the web application.
 
 2. Header Section with Analytics Button
    ![header_section_with_analytics(product team)](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/8cc8f94f-c9ec-4172-9add-8ccf963ff81e)
+
+3. Filter Sections with options for filtering by merchant name and amount range support
+   ![filter_section](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/7f160047-746f-4d4e-a2fc-a0b21dae1f44)
+
+4. Graphical Ststics of the orders vs merchants
+  
+
+5. List of all Merchants
+   
+
+6. Chart of all Orders of a merchant
+
+
+7. Footer  
+
