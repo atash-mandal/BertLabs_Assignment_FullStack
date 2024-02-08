@@ -66,7 +66,7 @@ _Below is the step by step implementation of how to install the web application.
   ![graphical_stats](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/8f2cb4fd-58e8-4c5f-8a21-40ad73665a3e)
 
 5. List of all Merchants
-   
+   ![merchant_list](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/62f5f98b-0eb8-4343-92ac-2c0c76912834)
 
 6. Chart of all Orders of a merchant
 
