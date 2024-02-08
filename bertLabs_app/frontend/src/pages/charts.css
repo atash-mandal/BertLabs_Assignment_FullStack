@@ -1,0 +1,137 @@
+.graph-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.graph-header span{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.charts-wrapper{
+    margin-bottom: 10px;
+}
+.chart-container{
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-bottom: 30px;
+}
+
+.bar-chart-text {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.bar-chart-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    min-height: 280px;
+    background-color: white;
+}
+
+.bar-chart-wrapper {
+    width: auto;
+}
+
+.pie-chart-wrapper {
+    width: auto;
+}
+
+.pie-chart-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.pie-chart-text {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.pie-chart-box{
+    min-height: 280px;
+    min-width: 280px;
+}
+
+.pie-chart-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.merchant-header-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.merchant-header-text {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.merchant-box-wrapper {
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.merchant-box {
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease;
+    margin: 5px;
+    min-height: 50px;
+    width: 100%;
+}
+
+.merchant-box {
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease;
+    margin: 5px;
+    min-height: 50px;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.merchant-box:hover {
+    background-color: #22d0c7;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.merchant-box:active {
+    transform: translateY(2px);
+}
+
+.merchant-box span{
+    font-size: 90%;
+    font-weight: bold;
+}
