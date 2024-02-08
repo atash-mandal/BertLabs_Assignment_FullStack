@@ -55,3 +55,6 @@ _Below is the step by step implementation of how to install the web application.
 
 1. Interface of the Application
    ![first_page](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/3518a656-e873-40b0-b482-f734c7e00055)
+
+2. Header Section with Analytics Button
+   ![header_section_with_analytics(product team)](https://github.com/atash-mandal/BertLabs_Assignment_FullStack/assets/102474701/8cc8f94f-c9ec-4172-9add-8ccf963ff81e)
